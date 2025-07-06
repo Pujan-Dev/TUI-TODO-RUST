@@ -38,8 +38,6 @@ git clone https://github.com/Pujan-Dev/TUI-TODO-RUST
 cd terminal-todo
 ```
 
-````
-
 ### 2. Add dependencies
 
 Inside `Cargo.toml`:
@@ -84,4 +82,3 @@ MIT License — use it freely, build cool stuff, have fun 🚀
 ---
 
 ## 🧊 Made with Rust and chill
-````
