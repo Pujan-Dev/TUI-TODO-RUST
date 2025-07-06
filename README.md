@@ -2,6 +2,8 @@
 
 A minimal, clean and beginner-friendly TODO app you can run in your terminal — built with Rust, powered by `ratatui` and `crossterm`.
 
+![Screenshot](assets/screenshot.png)
+
 ---
 
 ## ✨ Features
